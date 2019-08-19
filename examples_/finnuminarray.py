@@ -1,6 +1,9 @@
 def find(list_val, y):
-    index = list_val.index(y)
-    print(f'The number is in position: {index}')
+    if x in list_val:
+        index = list_val.index(y)
+        print(f'The number is in position: {index}')
+    else:
+        print('Number not found!')
 
 
 lists = []
