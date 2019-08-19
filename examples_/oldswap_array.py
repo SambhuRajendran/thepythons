@@ -1,4 +1,4 @@
-
+############old
 #listof get input from the user
 listof = []
 #n is the number of values  that user wants to add to array
