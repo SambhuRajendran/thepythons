@@ -1,5 +1,5 @@
 def find(list_val, y):
-    if x in list_val:
+    if y in list_val:
         index = list_val.index(y)
         print(f'The number is in position: {index}')
     else:
