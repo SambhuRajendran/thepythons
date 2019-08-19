@@ -1,4 +1,8 @@
+<<<<<<< HEAD:examples_/oldswap_array.py
 ############old
+=======
+##############THIS IS AN OLD METHOD##################
+>>>>>>> 8761a0fcd23a0e75499879e475b41f822d2362ed:examples_/array.py
 #listof get input from the user
 listof = []
 #n is the number of values  that user wants to add to array
