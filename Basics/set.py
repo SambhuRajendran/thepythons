@@ -16,3 +16,10 @@ science_not_art = science.difference(art_friends)
 print(art_friends_not_science)
 print(science_not_art)
 
+all_friends = art_friends.union(science)
+print(all_friends)
+
+art_and_science = art_friends.intersection(science)
+print(art_and_science)
+
+
