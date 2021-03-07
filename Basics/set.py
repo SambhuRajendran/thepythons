@@ -7,7 +7,7 @@ print(room_friends)
 room2.add('Jibu')
 print(room2)
 
-art_friends = {'Jibu', 'Rekhin', 'sambhu'}
+art_friends = {  'Rekhin', 'sambhu'}
 science = {'Rekhin', 'Jephin'}
 
 art_friends_not_science = art_friends.difference(science)
