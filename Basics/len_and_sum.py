@@ -3,4 +3,4 @@ total = sum(grades)
 length = len(grades)
 
 avg = total/length
-print(avg)
+print(f'The average of grades is {avg}')
