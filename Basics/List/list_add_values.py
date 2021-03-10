@@ -5,3 +5,8 @@ fifa = ["Ronaldo", "Messi", "Rooney", "Mane", "De Gea"]
 # the postion [2] actually means [1] so player Pogba will be added
 fifa[1:2] = ["Rashford", "Pogba"]
 print(fifa)
+
+#Here you can insert a value without replacing the current ones
+fifa.insert(3, "Tevez")
+#Value Tevez will be inserted after Rooney
+print(fifa)
