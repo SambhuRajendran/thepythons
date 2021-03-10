@@ -2,5 +2,5 @@
 mufc = ["De Gea", "Rashford", "Cavani", "Bruno"]
 madrid = ["Casmeiro", "Kroos", "Hazard"]
 mufc.extend(madrid)
-
+#here the values from madrid list will be added to mufc
 print(mufc)
