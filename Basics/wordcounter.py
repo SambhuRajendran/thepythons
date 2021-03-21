@@ -2,7 +2,7 @@ txtfile = open("D:\english-words\words_alpha.txt", "r")
 wordtofind = input("Enter a string to find the occurences?")
 user_list = []
 for words in txtfile:
-    if wordtofind == words:
+    if wordtofind in words:
         print('matched')
         #print(wordtofind)
         user_list.append(words)
